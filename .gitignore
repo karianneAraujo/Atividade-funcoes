@@ -1,0 +1,5 @@
+# Ignorar um arquivo específico
+.vscode
+
+# Ignorar todos os arquivos binários de uma pasta
+pasta/*.bin
